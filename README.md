@@ -9,11 +9,11 @@ I am in my final year completing **Bachelor of Commerce/Science conjoint** at th
 * Business Analytics
 * Statistics
 
-$${\color{
-Three things that I love doing in my spare times are:
+
+${\color{orange}Three \space things \space that \space I \space love \space doing \space in \space my \space spare \space times \space are:}$
 1. Playing badminton
 2. Watching Netflix
-3. Traveling
-}Orange}$$
+3. Traveling 
+
 
 [Here is a link that takes you to my favourite website](https://www.netflix.com/browse)
