@@ -9,9 +9,11 @@ I am in my final year completing **Bachelor of Commerce/Science conjoint** at th
 * Business Analytics
 * Statistics
 
+$${\color{
 Three things that I love doing in my spare times are:
 1. Playing badminton
 2. Watching Netflix
 3. Traveling
+}Orange}$$
 
 [Here is a link that takes you to my favourite website](https://www.netflix.com/browse)
